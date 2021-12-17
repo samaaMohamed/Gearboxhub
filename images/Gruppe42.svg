@@ -1,0 +1,12 @@
+<svg id="Gruppe_42" data-name="Gruppe 42" xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="Gruppe_39" data-name="Gruppe 39">
+    <rect id="Rechteck_3" data-name="Rechteck 3" width="39" height="39" fill="none"/>
+  </g>
+  <g id="Gruppe_41" data-name="Gruppe 41" transform="translate(3.222 4.833)">
+    <g id="Gruppe_40" data-name="Gruppe 40">
+      <path id="Pfad_55" data-name="Pfad 55" d="M33,9.222H27.891L24.943,6H15.277L12.329,9.222H7.222A3.231,3.231,0,0,0,4,12.444V31.776A3.231,3.231,0,0,0,7.222,35H33a3.231,3.231,0,0,0,3.222-3.222V12.444A3.231,3.231,0,0,0,33,9.222Zm0,22.554H7.222V12.444h6.525l2.948-3.222h6.831l2.948,3.222H33Z" transform="translate(-4 -6)" fill="#a2427d"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="3.5" cy="3.5" r="3.5" transform="translate(12.778 9.167)" fill="#a2427d"/>
+      <path id="Pfad_56" data-name="Pfad 56" d="M26.923,28.934a11.2,11.2,0,0,0-8.957,0A3.239,3.239,0,0,0,16,31.915v.918H28.888v-.918A3.239,3.239,0,0,0,26.923,28.934Z" transform="translate(-6.334 -10.279)" fill="#a2427d"/>
+    </g>
+  </g>
+</svg>
