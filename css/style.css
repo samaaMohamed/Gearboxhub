@@ -90,13 +90,13 @@ ul {
 
 .header {
   display: flex;
-  align-items: center;
   justify-content: space-around;
   padding-top: 20px;
   color: #4a4c53;
   position: fixed;
   z-index: 9999;
   width: 100%;
+  height: 55px;
 }
 .header .search i {
   font-size: 23px;
@@ -196,7 +196,7 @@ ul {
   overflow-x: hidden;
   transition: 0.5s;
   z-index: 9999;
-  padding-top: 60px;
+  padding-top: 30px;
   top: 75px;
   height: 100%;
 }
@@ -210,16 +210,24 @@ ul {
   transition: 0.3s;
 }
 
-.sidenav .closebtn {
+.closebtn {
+  display: none;
   position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
+  top: 3px;
+  right: 19px;
+  font-size: 52px;
   margin-left: 50px;
 }
 
 .menue {
   cursor: pointer;
+}
+.menue .open-nav {
+  height: 1px;
+  width: 30px;
+  background-color: #4a4c53;
+  border: 1px solid #4a4c53;
+  margin-bottom: 8px;
 }
 .menue span {
   font-size: 37px;

@@ -42,7 +42,6 @@
             </div>
             <div class="menue">
                 <div id="mySidenav" class="sidenav">
-                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
                     <div class="items">
                         <div class="item">
                             <div class="item-left">
@@ -128,7 +127,13 @@
 
                     </div>
                 </div>
-                <span onclick="openNav()">&#9776;</span>
+                <div id="openNav" onclick="openNav()">
+                    <div class="open-nav"></div>
+                    <div class="open-nav"></div>
+                    <div class="open-nav"></div>
+                </div>
+                <a href="javascript:void(0)" id="closeBtn" class="closebtn" onclick="closeNav()">&times;</a>
+
             </div>
         </div>
         <!--End Header-->

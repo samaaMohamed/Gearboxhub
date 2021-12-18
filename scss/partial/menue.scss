@@ -7,7 +7,7 @@
   overflow-x: hidden;
   transition: 0.5s;
   z-index: 9999;
-  padding-top: 60px;
+  padding-top: 30px;
   top: 75px;
   height: 100%;
 }
@@ -19,14 +19,22 @@
   display: block;
   transition: 0.3s;
 }
-.sidenav .closebtn {
+.closebtn {
+  display: none;
   position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
+  top: 3px;
+  right: 19px;
+  font-size: 52px;
   margin-left: 50px;
 }
 .menue {
+  .open-nav {
+    height: 1px;
+    width: 30px;
+    background-color: #4a4c53;
+    border: 1px solid #4a4c53;
+    margin-bottom: 8px;
+  }
   span {
     font-size: 37px;
   }
